@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=1000px height=400px src="chatgpt.png" alt="Project logo"></a>
+ <img width=1000px height=400px src="./chatgpt.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Chat GPT Clone-App</h3>
