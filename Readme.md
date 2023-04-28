@@ -103,7 +103,7 @@ server side
 The chatbot is designed to understand user input and respond in a meaningful way, allowing users to ask questions and receive answers in real-time. The chatbot can also provide helpful advice and recommendations based on the user's input. This project will help make conversations more efficient and enjoyable for both parties involved.
 
 
-<img width=1000px height=400px center src="chatgpt1.png" alt="Project logo"></a>
+<img width=1000px height=400px center src="https://user-images.githubusercontent.com/59840966/210267527-56175cf6-d544-4ad9-947d-8d8b1d406564.png" alt="Project logo"></a>
 
 
 
